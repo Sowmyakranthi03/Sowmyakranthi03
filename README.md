@@ -1,134 +1,134 @@
-# Hi 👋 I'm Sowmya Kranthi
+# Hey, I'm Sowmya Kranthi 👋
 
-### AI Engineer • Developer • Designer • Photographer • Lifelong Builder
+### AI Engineer in Progress • Developer • Designer • Photographer
 
 🎓 MSc Artificial Intelligence @ Teesside University, UK
 🎓 Computer Science Graduate @ NIT Delhi
 
-I enjoy building things.
+I love building things.
 
-Sometimes that means training machine learning models.
-Sometimes it means designing user interfaces.
-Sometimes it means building full-stack applications.
-Sometimes it means spending hours behind a camera looking for the perfect shot.
+Some days I'm training machine learning models.
 
-I love the intersection of technology, creativity, and problem solving.
+Some days I'm debugging code at 2 AM.
 
----
+Some days I'm designing interfaces, editing photographs, or sketching ideas for products that don't exist yet.
 
-## 🚀 What I'm Building
+Technology became interesting to me because of creativity. What started with graphic design, photography, and digital tools gradually evolved into software development, machine learning, and artificial intelligence.
 
-### 🏏 AI Cricket Coach
-
-My current flagship project.
-
-AI Cricket Coach is an intelligent sports analytics platform that combines computer vision, machine learning, biomechanics-inspired analysis, and AI-powered feedback to help players improve through video analysis.
-
-The vision is simple:
-
-Upload a batting video and receive coaching insights automatically.
-
-Current areas include:
-
-* Pose Estimation
-* Ball Tracking
-* Bat Tracking
-* Movement Analysis
-* Performance Metrics
-* AI Coaching Feedback
+Today, I'm exploring how intelligent systems can solve real-world problems while remaining useful, understandable, and human-centered.
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## 🚀 What Excites Me
 
-I enjoy solving real-world problems using data and intelligent systems.
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Deep Learning
+* Software Engineering
+* Human-Centered AI
+* Product Development
+* Design & User Experience
 
-Projects include:
+I enjoy learning across disciplines rather than staying inside one box.
+
+---
+
+## 🧠 Things I'm Building
+
+### AI & Machine Learning
+
+Working on projects involving:
+
+* Predictive Analytics
+* Classification Systems
+* Risk Prediction
+* Decision Support Systems
+* Responsible AI
+* Fairness & Explainability
+
+Recent work includes:
 
 * Online Shopper Purchase Prediction
 * Hypertension Risk Prediction
 * Employee Promotion Prediction
 * Loan Approval Prediction
-* Criminal Recidivism Prediction
-* Hospital Resource Allocation Systems
-* Reinforcement Learning Applications
+* Criminal Recidivism Analysis
 
-My interests include:
+---
 
-* Machine Learning
-* Deep Learning
+### 🏏 AI Cricket Coach (Collaborative Project)
+
+Working with a fellow developer on an AI-powered cricket analytics platform.
+
+The goal is to analyze batting videos and generate coaching insights using:
+
+* Pose Estimation
 * Computer Vision
-* Predictive Analytics
-* Explainable AI
-* Intelligent Decision Support Systems
+* Object Detection
+* Movement Analysis
+* Performance Metrics
 
 ---
 
-## 💻 Software Development
+### 💻 Software Development
 
-Beyond AI, I enjoy building products.
+I enjoy turning ideas into products.
 
-Some projects I've worked on include:
+Projects span:
 
-* LightBreaker (React Native)
-* Smart Shop
-* Weather Applications
-* Portfolio Websites
-* Full-Stack Web Applications
-* Decision Support Dashboards
-
-I enjoy transforming ideas into usable products.
+* Web Applications
+* Mobile Applications
+* Data Dashboards
+* Intelligent Systems
+* Productivity Tools
 
 ---
 
-## 🎨 Design & Creativity
+### 🎨 Design & Photography
 
-Before AI, design was one of the reasons I became interested in technology.
+Before I became interested in AI, I was fascinated by design.
 
-I enjoy:
+I still enjoy:
 
 * Graphic Design
-* UI/UX Design
+* UI/UX
 * Photography
 * Visual Storytelling
-* Content Creation
+* Creative Problem Solving
 
-Design taught me how people experience technology.
-AI taught me how technology can understand people.
-
-I love working somewhere in the middle.
+I believe good technology should not only work well—it should feel intuitive and meaningful.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 What I'm Curious About
 
-I am fascinated by questions such as:
+* Can AI make better decisions?
+* Can we build systems people trust?
+* How can machines understand movement, behaviour, and intent?
+* What happens when creativity meets intelligence?
 
-* How can AI make better decisions?
-* How can we build trustworthy AI systems?
-* How can humans and AI collaborate effectively?
-* How can computer vision understand movement and behaviour?
-* How can intelligent systems become more adaptive?
+These questions keep me learning.
 
 ---
 
-## 🛠️ Technologies
+## 🛠 Tech Stack
 
 ### Languages
 
 Python • C++ • C • JavaScript • Java • PHP
 
-### AI & Data Science
+### AI & Data
 
-Scikit-Learn • Pandas • NumPy • OpenCV • Machine Learning • Reinforcement Learning
+Machine Learning • Scikit-Learn • Pandas • NumPy • OpenCV • Reinforcement Learning
 
 ### Development
 
-React • React Native • Flask • Node.js • HTML • CSS • MySQL • SQLite
+React • React Native • Flask • Node.js • HTML • CSS • MySQL
 
 ### Tools
 
-Git • GitHub • Google Colab • VS Code • Figma • Canva • Tableau • Power BI • Photoshop • Lightroom
+Git • GitHub • VS Code • Google Colab • Figma • Canva • Tableau • Power BI • Photoshop • Lightroom
 
 ---
 
@@ -139,15 +139,15 @@ Git • GitHub • Google Colab • VS Code • Figma • Canva • Tableau • 
 * Generative AI
 * Large Language Models
 * MLOps
-* AI Product Development
+* AI Product Engineering
 
 ---
 
 ## 🎯 Long-Term Goal
 
-To build intelligent products that combine technology, creativity, and human-centered design.
+To build intelligent products that combine technology, creativity, and real-world impact.
 
-I want to contribute to systems that are not only technically impressive but genuinely useful to people.
+I'm less interested in chasing buzzwords and more interested in building things that people genuinely find useful.
 
 ---
 
@@ -157,9 +157,6 @@ I want to contribute to systems that are not only technically impressive but gen
 
 🌐 GitHub: github.com/Sowmyakranthi03
 
-📸 Photographer.
-🎨 Designer.
-💻 Developer.
-🤖 AI Engineer.
+---
 
-Always building something new.
+> “Stay curious. Build often. Keep learning.”
