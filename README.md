@@ -4,140 +4,189 @@
 
 🎓 B.Tech Computer Science & Engineering @ NIT Delhi
 
-I didn't get into technology through coding.
+I didn't start my journey in technology through coding.
 
-I got into it through design, photography, and curiosity.
+It started with a camera, design software, and a lot of curiosity.
 
-What started as editing photos, creating graphics, and working with creative software slowly turned into an interest in how these tools actually worked. That curiosity eventually led me into programming, software development, machine learning, and artificial intelligence.
+Long before I built machine learning models or wrote software applications, I spent hours taking photographs, editing images, designing graphics, and experimenting with digital tools. Over time, I became fascinated not just by what these tools could do, but by how they actually worked behind the scenes.
 
-Since then, I've worked as a Computer Science Lecturer, built software projects, taught programming, explored machine learning, and spent countless hours breaking and rebuilding things just to understand how they work.
+That curiosity led me from design into programming, from programming into software development, and eventually into Artificial Intelligence.
 
-Today, I'm pursuing my Master's in Artificial Intelligence while building projects across AI, software engineering, computer vision, and data science.
+Since then, I've explored technology from multiple perspectives — as a student developer, graphic design team lead, computer science lecturer, researcher, and builder. Each experience taught me something different: how to solve problems, communicate ideas, work with people, and keep learning.
+
+Today, I'm pursuing my Master's in Artificial Intelligence while building projects across Machine Learning, Computer Vision, Data Science, Responsible AI, and Software Engineering.
+
+I learn best by building.
+
+Most of my projects start with a question, a challenge, or an idea I'm curious enough to explore. The fastest way for me to understand something is to build it, break it, improve it, and keep iterating until it works.
+
+Whether it's training predictive models, analysing large datasets, developing full-stack applications, experimenting with computer vision systems, or exploring AI research, I'm driven by the same thing that started this journey years ago:
+
+**Curiosity.**
 
 ---
 
-## What I'm Currently Exploring
+## 🚀 Currently Building
 
-### 🤖 Artificial Intelligence & Machine Learning
+### AI Cricket Coach (Collaborative Project)
 
-I enjoy building systems that learn from data and help solve real-world problems.
+I'm currently contributing to an AI-powered cricket coaching system being developed with a friend.
+
+The goal is to transform ordinary batting videos into meaningful coaching feedback using Computer Vision and AI.
+
+Current areas of work include:
+
+* Pose Estimation using MediaPipe
+* Balance and Stability Analysis
+* Head Movement Tracking
+* Stance Width Measurement
+* Performance Metric Generation
+* Bat and Ball Detection
+* Video Analytics using OpenCV
+* AI-Assisted Technique Assessment
+
+This project has exposed me to real-world computer vision challenges, human movement analysis, video processing pipelines, and collaborative software development.
+
+---
+
+## 🧠 Machine Learning Projects
+
+I've worked on machine learning projects across healthcare, finance, customer analytics, e-commerce, and human resources.
+
+### Customer Churn Prediction
+
+Built classification models to identify customers likely to leave a service and support retention strategies.
+
+### Loan Default Prediction
+
+Developed predictive models for financial risk assessment using borrower and loan-related information.
+
+### Online Shopper Purchase Intention Prediction
+
+Predicted purchasing behaviour from user session data and website interaction patterns.
+
+### Employee Promotion Prediction
+
+Applied machine learning techniques to predict promotion outcomes and analyse key influencing factors.
+
+### House Price Prediction
+
+Built regression models to estimate housing prices using property and market features.
+
+### Used Car Price Prediction
+
+Developed valuation models using historical vehicle and pricing data.
+
+### Thyroid Disease Prediction
+
+Explored healthcare datasets to support early disease detection through predictive modelling.
+
+### Hypertension Prediction
+
+Used clinical indicators and health-related features to predict hypertension risk.
+
+---
+
+## 🔬 Responsible AI & Research
+
+Beyond model performance, I'm interested in understanding how AI systems affect people and decision-making.
 
 Recent projects include:
 
-* Online Shopper Purchase Prediction
-* Employee Promotion Prediction
-* Loan Approval Prediction
-* Hypertension Risk Prediction
-* Criminal Recidivism Analysis
-* Fairness & Bias Evaluation in AI Systems
+* Employee Promotion Bias Analysis
+* Loan Approval Bias Analysis
+* Criminal Recidivism Bias Analysis
+
+Through these projects, I've explored:
+
+* Responsible AI
+* Fairness & Bias Detection
+* Explainable AI (XAI)
+* Ethical Machine Learning
+* Human-Centred AI
 
 ---
 
-### 🏏 AI Cricket Coach (Collaborative Project)
+## 💻 Software Development
 
-Working with a fellow developer on an AI-powered cricket analytics platform.
+Alongside AI, I enjoy building software products and practical applications.
 
-The goal is to analyze batting videos and generate meaningful coaching insights using:
+Projects include:
 
-* Pose Estimation
-* Object Detection
-* Movement Analysis
-* Performance Metrics
-* Sports Analytics
-
-This project combines computer vision, machine learning, and domain-specific analysis in a way I find genuinely exciting.
-
----
-
-### 💻 Software Development
-
-I enjoy building things from scratch.
-
-Some of the projects I've worked on include:
-
-* LightBreaker (React Native)
 * Smart Shop
-* Weather Applications
-* Productivity Tools
-* Web Applications
-* Decision Support Dashboards
+* LightCone Academy
+* Weather Application
+* To-Do Application
+
+My development experience spans frontend development, backend development, APIs, databases, and full-stack application design.
 
 ---
 
-### 🎨 Design & Photography
+## 🛠 Technical Toolbox
 
-Long before AI and machine learning, I enjoyed creating visual content.
+### Languages
 
-I still spend time working on:
+Python • C++ • JavaScript • Java • SQL
 
-* Graphic Design
-* UI/UX Design
-* Photography
-* Visual Storytelling
+### Machine Learning & Data Science
 
-I think these creative experiences have influenced how I approach software and product design.
+Scikit-Learn • Pandas • NumPy • Matplotlib • Data Analysis • Feature Engineering • Model Evaluation • Statistical Analysis
 
----
+### Computer Vision
 
-## A Few Things About Me
+OpenCV • MediaPipe • YOLO • Pose Estimation • Object Detection • Video Analytics
 
-* Former Computer Science Lecturer
-* NIT Delhi Graduate
-* MSc Artificial Intelligence Student
-* Graphic Designer at heart
-* Photography enthusiast
-* Builder of too many side projects
-* Always curious about how things work
+### Software Development
 
----
+React • Node.js • Flask • PHP • REST APIs • Firebase
 
-## Tech Stack
+### Tools & Platforms
 
-**Languages**
+Git • GitHub • Jupyter Notebook • Google Colab • VS Code
 
-Python • C++ • C • JavaScript • Java • PHP
+### Design & Creativity
 
-**AI & Data**
-
-Machine Learning • Scikit-Learn • Pandas • NumPy • OpenCV • Data Analysis • Reinforcement Learning
-
-**Development**
-
-React • React Native • Flask • Node.js • HTML • CSS • MySQL • SQLite
-
-**Tools**
-
-Git • GitHub • Google Colab • VS Code • Figma • Canva • Photoshop • Lightroom • Tableau • Power BI
+Figma • Canva • Photoshop • Lightroom
 
 ---
 
-## Currently Learning
+## 🌱 Outside Technology
 
-* Deep Learning
+Outside of coding and AI, I enjoy:
+
+📸 Photography
+
+🎨 Graphic Design
+
+📚 Research & Learning
+
+✍️ Exploring New Ideas
+
+I enjoy combining creativity with technology and believe some of the most interesting solutions emerge when technical thinking meets creative problem-solving.
+
+---
+
+## 🎯 Current Interests
+
+* Machine Learning Engineering
+* Artificial Intelligence
 * Computer Vision
-* Generative AI
-* MLOps
-* Large Language Models
+* AI Product Development
+* Data Science
+* Applied AI Research
+* Software Engineering
+* Responsible AI
+
+I'm always excited to collaborate with people who enjoy building, learning, experimenting, and solving meaningful problems.
 
 ---
 
-## Why This GitHub Exists
+## 📫 Let's Connect
 
-This GitHub is where I document my journey from student to AI engineer.
+LinkedIn:
+[www.linkedin.com/in/sowmya-kranthi](http://www.linkedin.com/in/sowmya-kranthi)
 
-Some repositories are experiments.
-Some are university projects.
-Some are side projects.
-Some are ideas that may never become anything.
+Email:
+[sowmyakranthi03@gmail.com](mailto:sowmyakranthi03@gmail.com)
 
-But every repository represents something I learned along the way.
-
----
-
-📍 Middlesbrough, United Kingdom
-
-💼 LinkedIn: [www.linkedin.com/in/sowmya-kranthi-184673202](http://www.linkedin.com/in/sowmya-kranthi-184673202)
-
-🌐 GitHub: github.com/Sowmyakranthi03
-
-*"Still learning. Still building."*
+*"Stay curious. Build often. Learn continuously."*
