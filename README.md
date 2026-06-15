@@ -1,49 +1,165 @@
-## Hi there 👋
+# Hi 👋 I'm Sowmya Kranthi
 
-**Sowmyakranthi03/Sowmyakranthi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer • Developer • Designer • Photographer • Lifelong Builder
 
-Here are some ideas to get you started:
+🎓 MSc Artificial Intelligence @ Teesside University, UK
+🎓 Computer Science Graduate @ NIT Delhi
 
-- 🔭 I’m currently working on ...# Hi, I'm Sowmya Kranthi 👋
+I enjoy building things.
 
-**Computer Science student @ Teesside University (UK)** | Previously @ NIT Delhi  
-Building projects in web development, algorithms, and software engineering.
+Sometimes that means training machine learning models.
+Sometimes it means designing user interfaces.
+Sometimes it means building full-stack applications.
+Sometimes it means spending hours behind a camera looking for the perfect shot.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** C++ · C · JavaScript · HTML · CSS  
-**Web:** HTML5 · CSS3 · Vanilla JS · Responsive Design  
-**Tools:** Git · GitHub · VS Code
+I love the intersection of technology, creativity, and problem solving.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
-| Project | Description | Tech |
-|---|---|---|
-| [Portfolio Website](https://github.com/Sowmyakranthi03/sowmyakranthi_portofollio) | Personal portfolio showcasing my work | HTML, CSS |
-| [To-Do List App](https://github.com/Sowmyakranthi03/to_do_list) | Task management app with add/delete functionality | HTML, CSS, JavaScript |
-| [OOP Concepts in C++](https://github.com/Sowmyakranthi03/oops) | Implementations of core OOP principles | C++ |
-| [Array Operations](https://github.com/Sowmyakranthi03/operations-on-array-in-cpp) | Array algorithms and operations | C++ |
+### 🏏 AI Cricket Coach
+
+My current flagship project.
+
+AI Cricket Coach is an intelligent sports analytics platform that combines computer vision, machine learning, biomechanics-inspired analysis, and AI-powered feedback to help players improve through video analysis.
+
+The vision is simple:
+
+Upload a batting video and receive coaching insights automatically.
+
+Current areas include:
+
+* Pose Estimation
+* Ball Tracking
+* Bat Tracking
+* Movement Analysis
+* Performance Metrics
+* AI Coaching Feedback
 
 ---
 
-## 📫 Let's Connect
+## 🤖 Artificial Intelligence & Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmya-kranthi-184673202/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://sowmyakranthi03.github.io/sowmyakranthi.github.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SowmyaKranthi1)
+I enjoy solving real-world problems using data and intelligent systems.
+
+Projects include:
+
+* Online Shopper Purchase Prediction
+* Hypertension Risk Prediction
+* Employee Promotion Prediction
+* Loan Approval Prediction
+* Criminal Recidivism Prediction
+* Hospital Resource Allocation Systems
+* Reinforcement Learning Applications
+
+My interests include:
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Predictive Analytics
+* Explainable AI
+* Intelligent Decision Support Systems
 
 ---
 
-*Open to internships and graduate opportunities in the UK 🇬🇧*
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Software Development
+
+Beyond AI, I enjoy building products.
+
+Some projects I've worked on include:
+
+* LightBreaker (React Native)
+* Smart Shop
+* Weather Applications
+* Portfolio Websites
+* Full-Stack Web Applications
+* Decision Support Dashboards
+
+I enjoy transforming ideas into usable products.
+
+---
+
+## 🎨 Design & Creativity
+
+Before AI, design was one of the reasons I became interested in technology.
+
+I enjoy:
+
+* Graphic Design
+* UI/UX Design
+* Photography
+* Visual Storytelling
+* Content Creation
+
+Design taught me how people experience technology.
+AI taught me how technology can understand people.
+
+I love working somewhere in the middle.
+
+---
+
+## 🔬 Research Interests
+
+I am fascinated by questions such as:
+
+* How can AI make better decisions?
+* How can we build trustworthy AI systems?
+* How can humans and AI collaborate effectively?
+* How can computer vision understand movement and behaviour?
+* How can intelligent systems become more adaptive?
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+Python • C++ • C • JavaScript • Java • PHP
+
+### AI & Data Science
+
+Scikit-Learn • Pandas • NumPy • OpenCV • Machine Learning • Reinforcement Learning
+
+### Development
+
+React • React Native • Flask • Node.js • HTML • CSS • MySQL • SQLite
+
+### Tools
+
+Git • GitHub • Google Colab • VS Code • Figma • Canva • Tableau • Power BI • Photoshop • Lightroom
+
+---
+
+## 🌱 Currently Learning
+
+* Deep Learning
+* Advanced Computer Vision
+* Generative AI
+* Large Language Models
+* MLOps
+* AI Product Development
+
+---
+
+## 🎯 Long-Term Goal
+
+To build intelligent products that combine technology, creativity, and human-centered design.
+
+I want to contribute to systems that are not only technically impressive but genuinely useful to people.
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/sowmya-kranthi-184673202](http://www.linkedin.com/in/sowmya-kranthi-184673202)
+
+🌐 GitHub: github.com/Sowmyakranthi03
+
+📸 Photographer.
+🎨 Designer.
+💻 Developer.
+🤖 AI Engineer.
+
+Always building something new.
