@@ -1,31 +1,116 @@
-# Hey, I'm Sowmya 👋
+# Hi, I'm Sowmya Kranthi 👋
 
-I'm currently pursuing an MSc in Artificial Intelligence at Teesside University after graduating in Computer Science from NIT Delhi.
+🎓 MSc Artificial Intelligence @ Teesside University, UK
+🎓 B.Tech Computer Science & Engineering @ NIT Delhi
 
-I got interested in computers through graphic design and photography. At first I enjoyed creating things visually, then I became curious about how the software behind them worked. That curiosity eventually led me into programming, machine learning, and AI.
+I didn't get into technology through coding.
 
-Over the years I've worked as a lecturer, built web applications, designed posters and interfaces, taught coding, and now spend most of my time experimenting with AI projects.
+I got into it through design, photography, and curiosity.
 
-### Things I enjoy working on
+What started as editing photos, creating graphics, and working with creative software slowly turned into an interest in how these tools actually worked. That curiosity eventually led me into programming, software development, machine learning, and artificial intelligence.
 
-* Machine Learning
-* Computer Vision
-* Software Development
-* Data Analysis
-* AI Research
+Since then, I've worked as a Computer Science Lecturer, built software projects, taught programming, explored machine learning, and spent countless hours breaking and rebuilding things just to understand how they work.
+
+Today, I'm pursuing my Master's in Artificial Intelligence while building projects across AI, software engineering, computer vision, and data science.
+
+---
+
+## What I'm Currently Exploring
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+I enjoy building systems that learn from data and help solve real-world problems.
+
+Recent projects include:
+
+* Online Shopper Purchase Prediction
+* Employee Promotion Prediction
+* Loan Approval Prediction
+* Hypertension Risk Prediction
+* Criminal Recidivism Analysis
+* Fairness & Bias Evaluation in AI Systems
+
+---
+
+### 🏏 AI Cricket Coach (Collaborative Project)
+
+Working with a fellow developer on an AI-powered cricket analytics platform.
+
+The goal is to analyze batting videos and generate meaningful coaching insights using:
+
+* Pose Estimation
+* Object Detection
+* Movement Analysis
+* Performance Metrics
+* Sports Analytics
+
+This project combines computer vision, machine learning, and domain-specific analysis in a way I find genuinely exciting.
+
+---
+
+### 💻 Software Development
+
+I enjoy building things from scratch.
+
+Some of the projects I've worked on include:
+
+* LightBreaker (React Native)
+* Smart Shop
+* Weather Applications
+* Productivity Tools
+* Web Applications
+* Decision Support Dashboards
+
+---
+
+### 🎨 Design & Photography
+
+Long before AI and machine learning, I enjoyed creating visual content.
+
+I still spend time working on:
+
+* Graphic Design
 * UI/UX Design
 * Photography
+* Visual Storytelling
 
-### Current Projects
+I think these creative experiences have influenced how I approach software and product design.
 
-* AI Cricket Coach (Computer Vision & Sports Analytics)
-* Online Shopper Purchase Prediction
-* Loan Approval Prediction
-* Employee Promotion Prediction
-* Hypertension Risk Prediction
-* LightBreaker Productivity App
+---
 
-### Currently Learning
+## A Few Things About Me
+
+* Former Computer Science Lecturer
+* NIT Delhi Graduate
+* MSc Artificial Intelligence Student
+* Graphic Designer at heart
+* Photography enthusiast
+* Builder of too many side projects
+* Always curious about how things work
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Python • C++ • C • JavaScript • Java • PHP
+
+**AI & Data**
+
+Machine Learning • Scikit-Learn • Pandas • NumPy • OpenCV • Data Analysis • Reinforcement Learning
+
+**Development**
+
+React • React Native • Flask • Node.js • HTML • CSS • MySQL • SQLite
+
+**Tools**
+
+Git • GitHub • Google Colab • VS Code • Figma • Canva • Photoshop • Lightroom • Tableau • Power BI
+
+---
+
+## Currently Learning
 
 * Deep Learning
 * Computer Vision
@@ -33,20 +118,25 @@ Over the years I've worked as a lecturer, built web applications, designed poste
 * MLOps
 * Large Language Models
 
-### A Few Things About Me
+---
 
-* Former Computer Science Lecturer
-* Graphic Designer before becoming an AI student
-* Photography enthusiast
-* Enjoy building projects more than writing about them
-* Usually have too many ideas and too little time
+## Why This GitHub Exists
 
-### Tech I Use
+This GitHub is where I document my journey from student to AI engineer.
 
-Python • C++ • JavaScript • React • Flask • OpenCV • Scikit-Learn • Pandas • NumPy • Git • GitHub
+Some repositories are experiments.
+Some are university projects.
+Some are side projects.
+Some are ideas that may never become anything.
+
+But every repository represents something I learned along the way.
 
 ---
 
-I'm currently using GitHub to document my learning journey, experiments, and projects as I grow into an AI Engineer.
+📍 Middlesbrough, United Kingdom
 
-Feel free to explore the repositories or connect with me on LinkedIn.
+💼 LinkedIn: [www.linkedin.com/in/sowmya-kranthi-184673202](http://www.linkedin.com/in/sowmya-kranthi-184673202)
+
+🌐 GitHub: github.com/Sowmyakranthi03
+
+*"Still learning. Still building."*
