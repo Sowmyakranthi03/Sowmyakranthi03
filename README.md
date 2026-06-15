@@ -12,7 +12,7 @@ Long before I built machine learning models or wrote software applications, I sp
 
 That curiosity led me from design into programming, from programming into software development, and eventually into Artificial Intelligence.
 
-Since then, I've explored technology from multiple perspectives — as a student developer, graphic design team lead, computer science lecturer, researcher, and builder. Each experience taught me something different: how to solve problems, communicate ideas, work with people, and keep learning.
+Since then, I've explored technology from multiple perspectives , as a student developer, graphic design team lead, computer science lecturer, researcher, and builder. Each experience taught me something different: how to solve problems, communicate ideas, work with people, and keep learning.
 
 Today, I'm pursuing my Master's in Artificial Intelligence while building projects across Machine Learning, Computer Vision, Data Science, Responsible AI, and Software Engineering.
 
