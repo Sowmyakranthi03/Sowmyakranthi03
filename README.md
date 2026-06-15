@@ -1,6 +1,7 @@
 # Hi, I'm Sowmya Kranthi 👋
 
 🎓 MSc Artificial Intelligence @ Teesside University, UK
+
 🎓 B.Tech Computer Science & Engineering @ NIT Delhi
 
 I didn't get into technology through coding.
